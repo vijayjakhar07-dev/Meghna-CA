@@ -1,0 +1,15 @@
+{
+  "name": "CA Meghna Jain — Wealth Management & Financial Planning",
+  "short_name": "Meghna Jain",
+  "description": "Chartered Accountant helping HNIs, entrepreneurs and business leaders make clearer wealth, tax and investment decisions.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#191610",
+  "theme_color": "#191610",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" },
+    { "src": "/favicon-32.png", "type": "image/png", "sizes": "32x32" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ]
+}
